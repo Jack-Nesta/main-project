@@ -41,3 +41,10 @@ h3 {
 
   font-size:18px;
 }
+
+.padded {
+  display: block;
+  margin-left: 30px;
+  margin-right: auto;
+  width:auto;ß
+}
